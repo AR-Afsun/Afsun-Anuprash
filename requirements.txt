@@ -1,1 +1,1 @@
-customtkinter, tkinter, pytube, pyautogui
+flask, pytube
